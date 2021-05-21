@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Fri May 21 22:13:43 MSK 2021","Fri May 21 22:13:57 MSK 2021","14741","","homework6test.LoginWithPageObjectTests","","homework6test.LoginWithPageObjectTests","loginTest","loginTest()",""
+"broken","Fri May 21 22:14:13 MSK 2021","Fri May 21 22:14:29 MSK 2021","15138","","homework6test.LoginWithPageObjectTests","","homework6test.LoginWithPageObjectTests","createNewContractPerson","createNewContractPerson()",""
+"broken","Fri May 21 22:13:25 MSK 2021","Fri May 21 22:13:42 MSK 2021","16173","","homework6test.LoginWithPageObjectTests","","homework6test.LoginWithPageObjectTests","loginPage","loginPage()",""
+"broken","Fri May 21 22:13:58 MSK 2021","Fri May 21 22:14:13 MSK 2021","15516","","homework6test.LoginWithPageObjectTests","","homework6test.LoginWithPageObjectTests","createNewMyProject","createNewMyProject()",""

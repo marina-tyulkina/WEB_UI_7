@@ -1,0 +1,55 @@
+{
+  "uid" : "1dd74bec63d28fbf",
+  "name" : "loginTest()",
+  "fullName" : "homework6test.LoginWithPageObjectTests.loginTest",
+  "historyId" : "69d1a68170632ef9e0654d8137d90f3c",
+  "time" : {
+    "start" : 1621620511974,
+    "stop" : 1621620526889,
+    "duration" : 14915
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Intel"
+  }, {
+    "name" : "thread",
+    "value" : "6880@Intel.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "homework6test.LoginWithPageObjectTests"
+  }, {
+    "name" : "testClass",
+    "value" : "homework6test.LoginWithPageObjectTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginTest"
+  }, {
+    "name" : "suite",
+    "value" : "homework6test.LoginWithPageObjectTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1dd74bec63d28fbf.json",
+  "parameterValues" : [ ]
+}
