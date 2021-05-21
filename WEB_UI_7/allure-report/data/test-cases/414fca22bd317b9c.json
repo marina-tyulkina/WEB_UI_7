@@ -1,0 +1,58 @@
+{
+  "uid" : "414fca22bd317b9c",
+  "name" : "loginPage()",
+  "fullName" : "homework6test.LoginWithPageObjectTests.loginPage",
+  "historyId" : "8420fe1544c879f8ad87f60b1abf7cd8",
+  "time" : {
+    "start" : 1621624267811,
+    "stop" : 1621624284859,
+    "duration" : 17048
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Тестирование создания нового проекта и нового контрагента"
+  }, {
+    "name" : "host",
+    "value" : "Intel"
+  }, {
+    "name" : "thread",
+    "value" : "8684@Intel.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "homework6test.LoginWithPageObjectTests"
+  }, {
+    "name" : "testClass",
+    "value" : "homework6test.LoginWithPageObjectTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginPage"
+  }, {
+    "name" : "suite",
+    "value" : "homework6test.LoginWithPageObjectTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "414fca22bd317b9c.json",
+  "parameterValues" : [ ]
+}

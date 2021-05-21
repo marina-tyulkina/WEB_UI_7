@@ -1,0 +1,41 @@
+[ {
+  "uid" : "59652a0028bd880a",
+  "name" : "createNewMyProject()",
+  "time" : {
+    "start" : 1621624438333,
+    "stop" : 1621624453849,
+    "duration" : 15516
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a85e94b6090094f0",
+  "name" : "loginTest()",
+  "time" : {
+    "start" : 1621624423172,
+    "stop" : 1621624437913,
+    "duration" : 14741
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fa7174260dab658",
+  "name" : "loginPage()",
+  "time" : {
+    "start" : 1621624405858,
+    "stop" : 1621624422031,
+    "duration" : 16173
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "134575f49d241986",
+  "name" : "createNewContractPerson()",
+  "time" : {
+    "start" : 1621624453892,
+    "stop" : 1621624469030,
+    "duration" : 15138
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]
